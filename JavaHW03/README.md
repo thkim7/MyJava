@@ -1,3 +1,6 @@
-![201904032 김태현 자바 3주차 과제](https://github.com/user-attachments/assets/87cfc251-1339-4a45-9355-d58ca6c06283)
+![image](https://github.com/user-attachments/assets/e81090a3-20c7-4748-a001-1fc97f64431c)
 
-빨강, 초록, 파랑 순서대로 사각형을 일정한 크기만큼 증가시켜 반복해서 그리는 프로그램입니다.
+
+코드를 실행한 결과는 다음과 같습니다.
+
+![201904032 김태현 자바 3주차 과제](https://github.com/user-attachments/assets/87cfc251-1339-4a45-9355-d58ca6c06283)
